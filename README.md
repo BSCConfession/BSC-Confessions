@@ -6,7 +6,7 @@
   <h1>Share your secrets anonymously. No judgment, just release</h1>
   
   <div>
-    <a href="https://x.com/BSC_Confessions" target="_blank" rel="noopener noreferrer">
+    <a href="https://x.com/ConfessOnBSC" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Follow-@BSC_Confessions-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Follow">
     </a>
     <a href="https://t.me/bscconfessions" target="_blank" rel="noopener noreferrer">
