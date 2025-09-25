@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://res.cloudinary.com/dlmfjcgaw/image/upload/v1758805940/att.8MxcS0pdr-dEmjzTrzOYEOs_qSMcDOizYaeF5CXeN7A_e12csz.jpg" alt="BSC Confessions Logo" width="200" height="200">
   
-  <h1>BSC Confessions</h1>
+  <h1>Share your secrets anonymously. No judgment, just release</h1>
   
   <div>
     <a href="https://x.com/BSC_Confessions" target="_blank" rel="noopener noreferrer">
