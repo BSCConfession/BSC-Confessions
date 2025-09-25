@@ -1,4 +1,4 @@
-# BSC Confessions
+# <div align="center"> BSC Confessions
 
 <div align="center">
   <img src="https://res.cloudinary.com/dlmfjcgaw/image/upload/v1758805940/att.8MxcS0pdr-dEmjzTrzOYEOs_qSMcDOizYaeF5CXeN7A_e12csz.jpg" alt="BSC Confessions Logo" width="200" height="200">
