@@ -6,8 +6,8 @@
   <h1>Share your secrets anonymously. No judgment, just release</h1>
   
   <div>
-    <a href="https://x.com/ConfessOnBSC" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Follow-@ConfessOnBSC-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Follow">
+    <a href="https://x.com/ConfessBSC" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Follow-@ConfessBSC-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Follow">
     </a>
     <a href="https://t.me/bscconfessions" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Join-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Join">
